@@ -1,5 +1,5 @@
 # Hi there 👋
-<img width="588" height="331" alt="abv3fonx mon" src="https://github.com/user-attachments/assets/1e52d17f-4e5a-4356-8733-567592d73bb0" />
+<img width="100%" height="auto" alt="abv3fonx mon" src="https://github.com/user-attachments/assets/1e52d17f-4e5a-4356-8733-567592d73bb0" />
 
 ## What I'm Currently Working On
 
