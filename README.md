@@ -36,11 +36,10 @@ Welcome to my GitHub profile! I have a passion for solving highly complex proble
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="Bash" title="Bash" /> &nbsp;
 <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="40" alt="Hack The Box" title="Hack The Box" /> &nbsp;
 <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40" alt="Burp Suite" title="Burp Suite" /> &nbsp;
-<img src="https://www.metasploit.com/includes/images/metasploit-logo-light-external-use.svg" height="40" alt="Metasploit" title="Metasploit"/> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_logo_and_wordmark.svg" height="40" alt="Metasploit" title="Metasploit"/> &nbsp;
 <img src="https://nmap.org/images/sitelogo-nmap.svg" height="40" alt="Nmap" title="Nmap"/> &nbsp;
-
 
 ### 🔧 IDEs & Workflow
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" title="PyCharm" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="40" alt="LaTeX" title="LaTeX" /> &nbsp;
+![LaTeX](https://img.shields.io/badge/LaTeX-151515?style=flat-square&logo=latex&logoColor=008080)
