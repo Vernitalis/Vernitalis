@@ -14,35 +14,35 @@ Welcome to my GitHub profile! I have a passion for solving highly complex proble
 ## 🛠️ Tech Stack & Tools
 
 ### 🧠 Quantum, AI & Data
-![Python](https://img.shields.io/badge/Python-151515?style=flat-square&logo=python&logoColor=3776AB)
-![PyTorch](https://img.shields.io/badge/PyTorch-151515?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![Qiskit](https://img.shields.io/badge/Qiskit-151515?style=flat-square&logo=qiskit&logoColor=6929C4)
-![CUDA](https://img.shields.io/badge/CUDA-151515?style=flat-square&logo=nvidia&logoColor=76B900)
+<img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" title="Python" /> &nbsp;
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch" title="PyTorch" /> &nbsp;
+<img src="https://cdn.simpleicons.org/qiskit/6929C4" height="40" alt="Qiskit" title="Qiskit" /> &nbsp;
+<img src="https://cdn.simpleicons.org/nvidia/76B900" height="40" alt="CUDA" title="CUDA" /> &nbsp;
 *(+ Cotengra)*
 
 ### 💻 Core Languages & Frameworks
-![C++](https://img.shields.io/badge/C++-151515?style=flat-square&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-151515?style=flat-square&logo=c&logoColor=A8B9CC)
-![C#](https://img.shields.io/badge/C%23-151515?style=flat-square&logo=csharp&logoColor=239120)
-![.NET](https://img.shields.io/badge/.NET-151515?style=flat-square&logo=dotnet&logoColor=512BD4)
-![Flutter](https://img.shields.io/badge/Flutter-151515?style=flat-square&logo=flutter&logoColor=02569B)
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="C++" title="C++" /> &nbsp;
+<img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="C" title="C" /> &nbsp;
+<img src="https://cdn.simpleicons.org/csharp/239120" height="40" alt="C#" title="C#" /> &nbsp;
+<img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt=".NET" title=".NET" /> &nbsp;
+<img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="Flutter" title="Flutter" /> &nbsp;
 
 ### 👾 Game Dev & Design
-![Godot](https://img.shields.io/badge/Godot-151515?style=flat-square&logo=godotengine&logoColor=478CBF)
-![Aseprite](https://img.shields.io/badge/Aseprite-151515?style=flat-square&logo=aseprite&logoColor=FFFFFF)
+<img src="https://cdn.simpleicons.org/godotengine/478CBF" height="40" alt="Godot" title="Godot" /> &nbsp;
+<img src="https://cdn.simpleicons.org/aseprite/FFFFFF" height="40" alt="Aseprite" title="Aseprite" /> &nbsp;
 *(+ GDScript)*
 
 ### 🛡️ Cybersecurity & Systems
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-151515?style=flat-square&logo=kalilinux&logoColor=557C94)
-![Bash](https://img.shields.io/badge/Bash-151515?style=flat-square&logo=gnubash&logoColor=4EAA25)
-![Hack The Box](https://img.shields.io/badge/Hack_The_Box-151515?style=flat-square&logo=hackthebox&logoColor=9FEF00)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-151515?style=flat-square&logo=burpsuite&logoColor=FF6633)
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" alt="Kali Linux" title="Kali Linux" /> &nbsp;
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" title="Bash" /> &nbsp;
+<img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="40" alt="Hack The Box" title="Hack The Box" /> &nbsp;
+<img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40" alt="Burp Suite" title="Burp Suite" /> &nbsp;
 *(+ Metasploit, Nmap)*
 
 ### 🔧 IDEs & Workflow
-![VSCode](https://img.shields.io/badge/VSCode-151515?style=flat-square&logo=visualstudiocode&logoColor=0078D4)
-![PyCharm](https://img.shields.io/badge/PyCharm-151515?style=flat-square&logo=pycharm&logoColor=21D789)
-![LaTeX](https://img.shields.io/badge/LaTeX-151515?style=flat-square&logo=latex&logoColor=008080)
+<img src="https://cdn.simpleicons.org/visualstudiocode/0078D4" height="40" alt="VS Code" title="VS Code" /> &nbsp;
+<img src="https://cdn.simpleicons.org/pycharm/21D789" height="40" alt="PyCharm" title="PyCharm" /> &nbsp;
+<img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="LaTeX" title="LaTeX" /> &nbsp;
 
 ---
 
