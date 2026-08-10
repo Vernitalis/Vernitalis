@@ -30,14 +30,15 @@ Welcome to my GitHub profile! I have a passion for solving highly complex proble
 ### 👾 Game Dev & Design
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="40" alt="Godot" title="Godot" /> &nbsp;
 <img src="https://cdn.simpleicons.org/aseprite/FFFFFF" height="40" alt="Aseprite" title="Aseprite" /> &nbsp;
-*(+ GDScript)*
 
 ### 🛡️ Cybersecurity & Systems
 <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" alt="Kali Linux" title="Kali Linux" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="Bash" title="Bash" /> &nbsp;
 <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="40" alt="Hack The Box" title="Hack The Box" /> &nbsp;
 <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40" alt="Burp Suite" title="Burp Suite" /> &nbsp;
-*(+ Metasploit, Nmap)*
+<img src="https://www.metasploit.com/includes/images/metasploit-logo-light-external-use.svg" height="40" alt="Metasploit" title="Metasploit"/> &nbsp;
+<img src="https://nmap.org/images/sitelogo-nmap.svg" height="40" alt="Nmap" title="Nmap"/> &nbsp;
+
 
 ### 🔧 IDEs & Workflow
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" /> &nbsp;
