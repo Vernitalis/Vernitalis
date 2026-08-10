@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I have a passion for solving highly complex proble
 
 ### 🛡️ Cybersecurity & Systems
 <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" alt="Kali Linux" title="Kali Linux" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="Bash" title="Bash" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/bash/default.svg" height="40" alt="Bash" title="Bash" /> &nbsp;
 <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="40" alt="Hack The Box" title="Hack The Box" /> &nbsp;
 <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40" alt="Burp Suite" title="Burp Suite" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/metasploit/default.svg" height="40" alt="Metasploit" title="Metasploit"/> &nbsp;
