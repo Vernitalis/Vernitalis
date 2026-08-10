@@ -42,4 +42,4 @@ Welcome to my GitHub profile! I have a passion for solving highly complex proble
 ### 🔧 IDEs & Workflow
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" title="PyCharm" /> &nbsp;
-![LaTeX](https://img.shields.io/badge/LaTeX-151515?style=flat-square&logo=latex&logoColor=008080)
+<img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="LaTeX" title="LaTeX" /> &nbsp;
