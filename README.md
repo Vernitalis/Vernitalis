@@ -12,7 +12,7 @@
 
 ### 💻 Core Languages & Frameworks
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="C" title="C" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c/default.svg" height="40" alt="C" title="C" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" /> &nbsp;
 <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt=".NET" title=".NET" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter" /> &nbsp;
