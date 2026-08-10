@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I have a passion for solving highly complex proble
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="C" title="C" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" title=".NET" /> &nbsp;
+<img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt=".NET" title=".NET" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter" /> &nbsp;
 
 ### 👾 Game Dev & Design
