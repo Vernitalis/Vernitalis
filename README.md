@@ -2,7 +2,7 @@
 ## What I'm Currently Working On
 
 - **Master's Thesis:** Deep diving into Quantum Computing, specifically focused on optimizing the simulation of Shor's Algorithm.
-- **Cybersecurity:** Sharpening my ethical hacking skills on Hack The Box and mastering a variety of tools.
+- **CTF as a Service:** Platform that allows hosting of CTF events with per user containers and global scoreboard 
 - **Pentesting Toolkit** C# + Flutter app to make the process of manual pentesting smoother by incorporating a knowledgebase with report templates
 
 ---
